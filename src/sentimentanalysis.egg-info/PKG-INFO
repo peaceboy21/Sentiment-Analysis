@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: sentimentanalysis
+Version: 0.0.0
+Summary: A small python package for NLP app
+Home-page: https://github.com/peaceboy21/Sentiment-Analysis_Roberta
+Author: peaceboy21
+Author-email: sahilqureshi0207@gmail.com
+Project-URL: Bug Tracker, https://github.com/peaceboy21/Sentiment-Analysis_Roberta/issues
+License-File: LICENSE
+
+# Sentiment-Analysis_Roberta
