@@ -1,0 +1,4 @@
+TrainingArguments:
+    dataset_path: "C:\\Users\\91787\\Programming\\Projects\\Sentiment-Analysis_Roberta\\data\\Reviews.csv"
+    roberta_model: "cardiffnlp/twitter-roberta-base-sentiment"
+
